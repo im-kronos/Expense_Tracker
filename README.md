@@ -51,4 +51,4 @@ Start the client:
 
 
 
-Deployed in Netlify:(https://tduyphat-expensetracker.netlify.app/)[https://tduyphat-expensetracker.netlify.app/]
+Deployed in Netlify:[https://tduyphat-expensetracker.netlify.app/](https://tduyphat-expensetracker.netlify.app/login)
